@@ -1,0 +1,6 @@
+name = input('what is your name ?: ')
+lecture = input('what class are you attending ?: ') 
+print ('My name is Esther')
+print ("this is a python class")
+school = input ('what school do you attend ?: ')
+print (f"hello {name}")
